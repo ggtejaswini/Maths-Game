@@ -1,11 +1,11 @@
 body
 {
-	background:#E9D5CA;
+	background:#FFF9CA;
 }
 
 	.login_div1 , .login_div2
 	{
-		background:#827397;
+		background:#FFB4B4;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -27,10 +27,15 @@ body
 }
 #output
 {
-background: #4D4C7D;
+background: #FFDEB4;
 border-radius: 10px;
-border-top: 10px solid #363062;
+border-top: 10px solid #B2A4FF;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+#tosend
+{
+ background-color: cornflowerblue;
 }
